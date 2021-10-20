@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mavie1322
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Selenium WebDriver
+- 👀 I was interested in Software Testing now I am into Software Development
+- 🌱 I’m currently learning Javascript, CSS and HTML
 - 💞️ I’m looking to collaborate and gain experience in the field
 - 📫 How to reach me : babimbilyoness@gmail.com
 
