@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mavie1322
-- 👀 I was interested in Software Testing now I am into Software Development
-- 🌱 I’m currently learning Javascript, CSS and HTML
+- 👋 Hi, I’m Teclaire Bahel
+- 👀 I am into Software Development
+- 🌱 I’m currently learning Front-end and Back-end with Northcoders
 - 💞️ I’m looking to collaborate and gain experience in the field
 - 📫 How to reach me : babimbilyoness@gmail.com
 
