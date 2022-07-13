@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Teclaire Bahel
-- 👀 I am into Software Development
-- 🌱 I’m currently learning Front-end and Back-end with Northcoders
-- 💞️ I’m looking to collaborate and gain experience in the field
+- 👀 I am into Front-End Development
+- 🌱 I’ve graduated with Northcoders Software Development Bootcamp
+- 💞️ I’m looking to collaborate and gain experience in React
 - 📫 How to reach me : babimbilyoness@gmail.com
 
 <!---
